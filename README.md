@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drk1rd&theme=onedark" alt="drk1rd" /></a> </p>
 
-- 🌱 Deep into learning anything and everything about **backend development!**
+- 🌱 Deep into learning anything and everything about **backend development** and a bit of **devops**!
 
 - 📫 Reach me at **git.testenv@aleeas.com**
 
