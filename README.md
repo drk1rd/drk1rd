@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning anything and everything about **backend development!**
 
-- 📫 How to reach me **github.ep2m6@aleeas.com**
+- 📫 How to reach me **git.testenv@aleeas.com**
 
 - 🙃 My own work is in private repos and will stay that way for a while.
 
