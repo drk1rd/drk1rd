@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drk1rd&label=Profile%20views&color=0e75b6&style=flat" alt="drk1rd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drk1rd" alt="drk1rd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drk1rd&theme=onedark" alt="drk1rd" /></a> </p>
 
 - 🌱 I’m currently learning anything and everything about **backend development!**
 
