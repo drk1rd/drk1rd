@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm drk1rd</h1>
-<h3 align="center">a guy living in the same world as you</h3>
+<h3 align="center">a guy existing alongside</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drk1rd&label=Profile%20views&color=0e75b6&style=flat" alt="drk1rd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drk1rd&theme=onedark" alt="drk1rd" /></a> </p>
 
-- 🌱 I’m currently learning anything and everything about **backend development!**
+- 🌱 Deep into learning anything and everything about **backend development!**
 
 - 📫 Reach me at **git.testenv@aleeas.com**
 
