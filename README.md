@@ -19,7 +19,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drk1rd&" alt="drk1rd" /></p>
 <hr/>
 <h3 align="left">me&anc doing stuff:</h3>
-<p align="center"><img align="center" src="https://cutt.ly/spotifywidget" alt="reload if not visible" /></p>
+<p align="center"><img align="center" src="https://cutt.ly/githubspotify" alt="reload if not visible" /></p>
 
 
 <!--
