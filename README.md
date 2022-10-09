@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm drk1rd</h1>
-<h3 align="center">a guy existing alongside</h3>
+<h3 align="center">a guy, a student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drk1rd&label=Profile%20views&color=0e75b6&style=flat" alt="drk1rd" /> </p>
 
