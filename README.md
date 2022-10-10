@@ -18,7 +18,7 @@
 <h3 align="left">Contribution Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drk1rd&" alt="drk1rd" /></p>
 <hr/>
-<h3 align="left">me&anc doing stuff:</h3>
+<h3 align="left">connect over music? my recent plays:</h3>
 <p align="center"><img align="center" src="https://cutt.ly/githubspotify" alt="reload if not visible" /></p>
 
 
