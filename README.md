@@ -7,7 +7,7 @@
 
 - 🙃 My own work is in private repos and will stay that way for a while.
 
-<p align="center"> <img src="https://cutt.ly/githubcounter" alt="drk1rd" /> </p>
+<p align="center"> <img src="https://cutt.ly/githubcounter" alt="reload if not visible" /> </p>
 <p align="center"><sub><sup>^since 01 October 2022^</sup></sub></p>
 <p align="center"><img src="https://cutt.ly/githubtrophies" alt="reload if not visible" /></a> </p>
 <!--<h3 align="left">Languages and Tools:</h3>-->
