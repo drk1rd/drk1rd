@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm drk1rd</h1>
 <h3 align="center">a guy, a student</h3>
 
-- 🌱 Deep into learning anything and everything about ***backend development*** with a pinch of ***devops***!
+- 🌱 Learning anything and everything about ***backend development*** with a pinch of ***devops***!
 
 - 📫 Reach me at **git.testenv@aleeas.com**.
 
