@@ -3,7 +3,7 @@
 
 - 🌱 Trying to learn anything and everything about ***backend development*** with a side of ***devops***!
 
-- 📫 Reach me at **git.testenv@aleeas.com**.
+- 📫 Reach me at **career@suryansh.one**.
 
 - 🙃 Almost all of my own work is in private repos and will stay that way for a while.
 
