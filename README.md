@@ -2,7 +2,7 @@
 <h3 align="center"><i>Computer Science Undergraduate</i></h3>
 
 - 🔧 Focused on ***backend development*** complimented by ***DevOps***.
-- 📬 Reach me at **career@suryansh.one** or visit <a href="https://suryansh.one" target="_blank">suryansh.one</a>.
+- 📬 Reach me at **career@suryansh.one** or visit <a href="https://suryansh.one" target="_blank">**suryansh.one**</a>.
 - 🚀 Contributed to personal and external projects with ***hundreds of thousands of user interactions***.
 - 🔒 Most of my projects are in private repositories and will remain so for the foreseeable future.
 
