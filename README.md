@@ -88,7 +88,7 @@
 
 <hr/>
 <p align="center">
-  <img width=800 src="https://gh-trophy.cdnsoft.net/?username=drk1rd&column=10&theme=onedark&no-frame=true"/>
+  <img width=800 src="https://trophygithubreadmelang.cybee.dpdns.org/?username=drk1rd&column=10&theme=onedark&no-frame=true"/>
 </p>
 
 
